@@ -2,7 +2,7 @@
 > Pixabay API를 활용한 고화질 이미지 검색 및 반응형 갤러리 서비스
 
 ## 🎥 서비스 데모 / 스크린샷
-![Demo](https://via.placeholder.com/800x450?text=Service+Demo+Image)
+![Demo](./docs/demo.gif)
 
 ## 📌 프로젝트 소개
 - **프로젝트 목적:** 외부 API(Pixabay) 연동을 통한 비동기 데이터 처리 학습 및 Tailwind CSS를 활용한 모던하고 반응형인 UI 구현 역량 강화
